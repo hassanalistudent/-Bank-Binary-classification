@@ -2,7 +2,7 @@
 
 This project is a solution for the [Kaggle Playground Series – Season 5, Episode 8](https://www.kaggle.com/c/playground-series-s5e8/overview) competition. The objective was to build a binary classification model to predict whether a client would subscribe to a bank term deposit based on structured marketing and personal data.
 
-## 🧠 Model Overview
+##  Model Overview
 - **Task**: Binary classification (0 = No, 1 = Yes)
 - **Dataset Size**: 150,000 rows
 - **Evaluation Metric**: ROC AUC
@@ -20,12 +20,12 @@ This project is a solution for the [Kaggle Playground Series – Season 5, Episo
 - **Macro Avg F1**: 0.67  
 - **Weighted Avg F1**: 0.83  
 
-## ⚙️ Tools & Techniques
+##  Tools & Techniques
 - Python (scikit-learn, pandas, matplotlib)
 - Feature engineering and model tuning
 - Evaluation using classification metrics and ROC curve
 
-## 📁 Files Included
+##  Files Included
 - `Bank Binary Classification.ipynb`: Full notebook with preprocessing, modeling, and evaluation
 - `Data files.zip`: Training and test datasets
 
