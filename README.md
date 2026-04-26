@@ -7,7 +7,7 @@ This project is a solution for the [Kaggle Playground Series – Season 5, Episo
 - **Dataset Size**: 150,000 rows
 - **Evaluation Metric**: ROC AUC
 
-## 📊 Results
+##  Results
 - **Accuracy**: 0.80175  
 - **ROC AUC**: 0.85312  
 
